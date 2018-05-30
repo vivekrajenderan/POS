@@ -1,0 +1,4 @@
+#page_title {    border-bottom: 1px dotted #182735;    padding: 15px 0px;    margin: -24px auto auto auto;}
+select.form-control optgroup > option{ padding-left: 10px;}
+.ellipsis-text-overflow { text-overflow: ellipsis; white-space: nowrap;overflow: hidden;  }
+svg g.ct-labels foreignObject span.ct-label.ct-horizontal.ct-end{width: 50px !important;}

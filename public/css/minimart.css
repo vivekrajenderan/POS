@@ -1,0 +1,119 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.header {
+    background: #02aba2;
+    height: auto;
+}
+.innerIogo {
+    bottom: 0;
+    float: left;
+    margin:0;
+
+}
+.innerBreadcrumb {
+    background: #fff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 3px 0;
+    text-align: center;
+    font-size: 18px;
+    width: 160px;
+    margin: -21px 113px;
+    bottom: 0;
+    position: absolute;
+}
+.navbar-nav img {
+    margin: auto;
+    width: 45px;
+
+}
+.navbar-nav span {
+    text-align: center;
+    font-weight: normal;
+}
+.navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 500;
+    color: #000 !important;
+    font-weight: 600;
+    margin:0;
+    line-height: 14px;
+}
+
+.navbar-nav > li > a:hover {
+    background: transparent;
+
+}
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+.finance-circle {
+    margin: auto;
+}
+.finance-circle img {
+    text-align: center;
+    margin:40px auto;
+}
+.contentArea {
+    margin-top: 20px;
+}
+.menu-grid-normal{
+    padding:10px;
+    background: #00ada2;
+    text-align: center;
+    color: #fff;
+    max-width: 180px;
+    min-height: 150px;
+    margin: 5px auto;
+}
+.menu-grid-gray{
+    padding:10px;
+    background: #b7b7b7;
+    text-align: center;
+    color: #fff;
+    max-width: 180px;
+    min-height: 150px;
+    margin: auto;
+}
+.menu-grid-normal img, .menu-grid-gray img{
+    width: 65px;
+    margin: auto;
+}
+.menu-grid-normal p, .menu-grid-gray p{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}
+.contentArea a:hover{
+    text-decoration: none;
+}
+.navbar-toggle {
+    background: #fff;
+}
+.main-footer {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
+@media(min-width:220px) and (max-width:678px){
+    .innerIogo {
+        margin: 0;
+    }
+    .navbar-brand {
+        height: auto;
+        padding: 4px;
+    }
+    .navbar-nav img {
+        margin: 0 17px 0 0;
+        width: 45px;
+        float: left;
+    }
+    .navbar-default .navbar-nav > li > a {
+        text-align: left;
+    }
+}

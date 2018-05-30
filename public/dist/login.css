@@ -1,0 +1,71 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url('../images/front_shop.png');
+    background-repeat: no-repeat;
+    background-size: 125%;
+    background-position: 35% 0px;
+}
+
+
+#logo
+{
+    margin-top:2%;
+    margin-bottom:2%;
+}
+
+#login
+{
+    width:400px;
+    margin:0 auto;
+    margin-top:2%;
+    margin-bottom:2%;
+    transition:opacity 1s;
+    -webkit-transition:opacity 1s;
+}
+
+#login h1
+{
+    background:#1e6b3a;
+    padding:20px 0;
+    font-size:140%;
+    font-weight:300;
+    text-align:center;
+    color:#fff;
+}
+
+form
+{
+    background:#f0f0f0;
+    padding:6% 4%;
+    box-shadow: 5px 5px 5px 1px #6e6e6e;
+    -webkit-box-shadow: 5px 5px 5px 1px #6e6e6e;
+    -moz-box-shadow: 5px 5px 5px 1px #6e6e6e;
+    -o-box-shadow: 5px 5px 5px 1px #6e6e6e;
+}
+
+input[type="username"], input[type="password"]
+{
+    width:100%;
+    margin-bottom:4%;
+    padding:4%;
+}
+
+input[type="submit"]
+{
+    width:100%;
+    background:#3399cc;
+    margin-top:4%;
+    border:0;
+    padding:4%;
+    transition:background .3s;
+    -webkit-transition:background .3s;
+}
+
+input[type="submit"]:hover
+{
+    background:#2288bb;
+}

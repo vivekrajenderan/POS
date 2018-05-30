@@ -1,0 +1,32 @@
+<?php 
+
+$lang["item_kits_add_item"] = "Add Product";
+$lang["item_kits_all"] = "All";
+$lang["item_kits_cannot_be_deleted"] = "Could not delete product kit(s)";
+$lang["item_kits_confirm_delete"] = "Are you sure you want to delete the selected product kits?";
+$lang["item_kits_description"] = "Product Kit Description";
+$lang["item_kits_discount_percent"] = "Discount Percent";
+$lang["item_kits_error_adding_updating"] = "Error adding/updating Product Kit";
+$lang["item_kits_find_kit_item"] = "Kit Product";
+$lang["item_kits_info"] = "Product Kit Info";
+$lang["item_kits_item"] = "Product";
+$lang["item_kits_items"] = "Products";
+$lang["item_kits_kit"] = "Kit Id";
+$lang["item_kits_kit_and_components"] = "Kit and Components";
+$lang["item_kits_kit_and_stock"] = "Kit and Stock";
+$lang["item_kits_kit_only"] = "Kit Only";
+$lang["item_kits_name"] = "Product Kit Name";
+$lang["item_kits_new"] = "New Combo Product";
+$lang["item_kits_no_item_kits_to_display"] = "No product kits to display";
+$lang["item_kits_none_selected"] = "You have not selected any product kits";
+$lang["item_kits_one_or_multiple"] = "Product Kit(s)";
+$lang["item_kits_price_option"] = "Price Option";
+$lang["item_kits_priced_only"] = "Priced Only";
+$lang["item_kits_print_option"] = "Print Option";
+$lang["item_kits_quantity"] = "Quantity";
+$lang["item_kits_sequence"] = "Sequence";
+$lang["item_kits_successful_adding"] = "You have successfully added Combo Product";
+$lang["item_kits_successful_deleted"] = "You have successfully deleted";
+$lang["item_kits_successful_updating"] = "You have successfully updated Combo Product";
+$lang["item_kits_update"] = "Update Combo Product";
+$lang["item_kits_amount"] = "Amount";
